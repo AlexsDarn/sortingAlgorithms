@@ -1,7 +1,5 @@
 package org.workerbee.sortingalgorithms;
 
-import java.util.Arrays;
-
 public class GnomeSort {
 
 	public static void gnomeSort(int arr[], int n) {
